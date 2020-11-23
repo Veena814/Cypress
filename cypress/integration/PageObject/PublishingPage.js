@@ -7,8 +7,8 @@ logindetails()
 {
     const login =new LoginPage()
     login.visit()
-    login.enterUsername('admin')
-    login.enterPassword('2miXyx59')
+    login.enterUsername('admin123')
+    login.enterPassword('admin123')
     login.signIn()
             
 }

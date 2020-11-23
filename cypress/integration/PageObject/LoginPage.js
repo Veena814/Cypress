@@ -4,7 +4,7 @@ class LoginPage
 
 visit()
 {
-    cy.visit('https://sandbox01.demo.jadu.net/student01/jadu/')
+    cy.visit('URL')
 }
 
 enterUsername(value)
